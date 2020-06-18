@@ -9,10 +9,9 @@ greeting
 greeting
 
 
-$ ruby greeting.rb
+ ruby greeting.rb
 Hello World
 Hello World
 Hello World
 Hello World
 Hello World
-$
